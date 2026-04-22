@@ -46,7 +46,7 @@ OI is a powerful, fully offline AI desktop application built with Python, `llama
    ```
 
 3. **Theme Setup:**
-   The application uses the `azure.tcl` theme for a modern look. Ensure `azure.tcl` is in the same directory as `OI2.py`.
+   The application uses the `azure.tcl` theme for a modern look. Ensure `azure.tcl` is in the same directory as `OI.py`.
 
 ---
 
