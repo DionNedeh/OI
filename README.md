@@ -1,4 +1,4 @@
-# OI: A Local Multimodal AI Companion
+# OI: Custom Local AI UI
 
 OI is a powerful, fully offline AI desktop application built with Python, `llama-cpp-python`, and Tkinter. It provides a clean, responsive interface to run Large Language Models (LLMs) locally with GPU acceleration. Designed for privacy and performance, it supports text, code, images, and voice interaction—all processed entirely on your local hardware.
 
