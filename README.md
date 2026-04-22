@@ -20,7 +20,7 @@ A custom local model UI built with Python, `llama-cpp-python`, and Tkinter. It p
    pip install llama-cpp-python faster-whisper sounddevice soundfile numpy pillow
 
    1. Run:
-   ```bash
+   
    python OI.py
 
  License - MIT
