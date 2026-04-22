@@ -49,6 +49,7 @@ OI is a powerful, fully offline AI desktop application built with Python, `llama
    The application uses the `azure.tcl` theme for a modern look. Ensure `azure.tcl` is in the same directory as `OI.py`.
 
 ---
+<img width="1920" height="1021" alt="Screenshot (1158)" src="https://github.com/user-attachments/assets/850e70b7-6785-460b-aa64-b62403a63362" />
 
 ## 📖 How to Use
 
