@@ -1,0 +1,6 @@
+llama-cpp-python
+faster-whisper
+sounddevice
+soundfile
+numpy
+pillow
