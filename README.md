@@ -71,6 +71,7 @@ OI is a powerful, fully offline AI desktop application built with Python, `llama
 ---
 
 ## ⚙️ Configuration & Troubleshooting
+*   **Folder Permissions:** If you receive errors when saving chats, ensure your user profile has read/write permissions for the `~/OI_chats/` directory.
 *   **Vision Compatibility:** The app automatically detects if a `mmproj` (multimodal projector) file exists in your model folder to enable vision support.
 *   **Voice Runtime:** Ensure you have your microphone permissions enabled. Voice features require `sounddevice`, `soundfile`, and `faster-whisper`.
 *   **CUDA Support:** If the app fails to use your GPU, ensure your `llama-cpp-python` is correctly installed with CUDA support:
