@@ -34,7 +34,7 @@ except ImportError:
 
 class LocalLLMGUI:
     DEFAULT_SYSTEM_PROMPT = (
-        "You are Link, a highly capable and responsive AI companion. Keep answers concise."
+        "You are a highly capable and responsive AI companion."
     )
     DEFAULT_CTX = 2048
     DEFAULT_GPU_LAYERS = -1
