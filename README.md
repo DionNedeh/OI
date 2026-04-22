@@ -22,5 +22,4 @@ A custom local model UI built with Python, `llama-cpp-python`, and Tkinter. It p
    1. Run:
  python OI2.py
 
- License
-   MIT
+ License - MIT
